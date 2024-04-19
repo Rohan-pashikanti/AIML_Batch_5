@@ -27,3 +27,6 @@ ASSIGNMENT 8 :
 <br>
 ASSIGNMENT 9 :
 [ https://github.com/Rohan-pashikanti/AIML_Batch_5/blob/main/Assignment_9.ipynb ]
+<br>
+ASSIGNMENT 10 :
+[ https://github.com/Rohan-pashikanti/AIML_Batch_5/blob/main/Assignment_10.ipynb ]
